@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "609DC36E-F2B3-4AFC-B8A5-27997A8AA14B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15790C90-9609-42C5-8E92-4A55851BCF95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BullsEye/AppDelegate.swift"
+            timestampString = "580731892.007442"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "15790C90-9609-42C5-8E92-4A55851BCF95 - 5e16602e014f10fb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullsEye.AppDelegate.__allocating_init() -&gt; BullsEye.AppDelegate"
+                  moduleName = "BullsEye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bandarusandeep/Desktop/APP/BullsEye/BullsEye/AppDelegate.swift"
+                  timestampString = "580729517.9500411"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "15790C90-9609-42C5-8E92-4A55851BCF95 - 697f1f1e48917a3a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullsEye.AppDelegate.init() -&gt; BullsEye.AppDelegate"
+                  moduleName = "BullsEye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bandarusandeep/Desktop/APP/BullsEye/BullsEye/AppDelegate.swift"
+                  timestampString = "580729517.9521689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "15790C90-9609-42C5-8E92-4A55851BCF95 - 4826358ce928497d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullsEye.AppDelegate.__deallocating_deinit"
+                  moduleName = "BullsEye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bandarusandeep/Desktop/APP/BullsEye/BullsEye/AppDelegate.swift"
+                  timestampString = "580729517.9542871"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "15790C90-9609-42C5-8E92-4A55851BCF95 - 23150fa76a0fa2c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "BullsEye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bandarusandeep/Desktop/APP/BullsEye/BullsEye/AppDelegate.swift"
+                  timestampString = "580729517.956279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
